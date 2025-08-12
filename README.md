@@ -22,7 +22,7 @@ A TypeScript-based implementation for managing Bitcoin Rune token airdrops. This
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/cabriola/rune-airdrop.git
+git clone https://github.com/michalstefanow/rune-airdrop.git
 cd rune-airdrop
 ```
 
@@ -126,6 +126,8 @@ rune-airdrop/
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Author
+## Contact
 
-- GitHub: [@cabriola](https://github.com/cabriola) #
+- Telegram: [@michalstefanow](https://t.me/mylord1_1)
+- Twitter: [@michalstefanow](https://x.com/michalstefanow)
+
