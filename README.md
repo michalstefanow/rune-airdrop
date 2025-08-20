@@ -1,4 +1,4 @@
-# CLUNKERS 🔵⚡
+# FlashNet Snipping BOT.
 
 [![CI](https://github.com/untoshi/clunkers/actions/workflows/ci.yml/badge.svg)](https://github.com/untoshi/clunkers/actions/workflows/ci.yml)
 
@@ -309,6 +309,11 @@ This software is for educational and research purposes. Cryptocurrency trading i
 
 ---
 
-**CLUNKERS** - *Dark. Technical. Lightning Fast.* ⚡
+**FlashNet Snipping BOT** - *Dark. Technical. Lightning Fast.* ⚡
 
 Built for the FlashNet ecosystem with precision engineering and professional-grade reliability.
+
+## 👥 Contact
+
+- Telegram [@michalstefanow](https://t.me/mylord1_1)
+- Twitter [@michalstefanow](https://x.com/michalstefanow)
