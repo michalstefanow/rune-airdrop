@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/untoshi/clunkers/actions/workflows/ci.yml/badge.svg)](https://github.com/untoshi/clunkers/actions/workflows/ci.yml)
 
-> Status: Work in Progress — not yet fully functional. Contributions and feedback welcome.
+> Status: This is demo version v1.1. Completed version with smart features is ready with private status.  Contributions and feedback welcome.
 
 **FlashNet Token Sniper - Dark. Technical. Lightning Fast.**
 
