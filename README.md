@@ -315,5 +315,4 @@ Built for the FlashNet ecosystem with precision engineering and professional-gra
 
 ## 👥 Contact
 
-- Telegram [@michalstefanow](https://t.me/mylord1_1)
-- Twitter [@michalstefanow](https://x.com/michalstefanow)
+- Telegram [@michalstefanow](https://t.me/mooneagle)
